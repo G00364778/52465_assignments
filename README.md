@@ -1,4 +1,4 @@
-# Assignment 2018
+[]# Assignment 2018
 ## Programming for Data Analysis
 
 - [ ] Explain the overall purpose of the numpy.randowm package usining a Jupyter notebook.
@@ -26,3 +26,4 @@
 ## What is contained?
 ## How to run the notebook?
 ## References
+- [Github Markdown reference](https://guides.github.com/features/mastering-markdown/
