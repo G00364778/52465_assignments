@@ -26,4 +26,4 @@
 ## What is contained?
 ## How to run the notebook?
 ## References
-- [Github Markdown reference](https://guides.github.com/features/mastering-markdown/
+- [Github Markdown reference](https://guides.github.com/features/mastering-markdown/)
