@@ -1,3 +1,4 @@
+
 # Assignment 2018
 ## Programming for Data Analysis
 
@@ -24,6 +25,9 @@
   - [ ] plots. 
 
 ## What is contained?
+This repository contains the Jupyter Programming assignment for data analtics module and all the reference materials describing the module.
+
 ## How to run the notebook?
+There notebook can be viewed onlinein GitHib or download to a PC and viewed in a Python Notebook. To view the file on github, just select the 
 ## References
 - [Github Markdown reference](https://guides.github.com/features/mastering-markdown/)
