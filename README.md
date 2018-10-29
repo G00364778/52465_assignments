@@ -1,9 +1,10 @@
 
+
 # Assignment 2018
 ## Programming for Data Analysis
 
-- [ ] Explain the overall purpose of the numpy.randowm package usining a Jupyter notebook.
-- [ ] Explain use of "Simple Randow data" and "Permutations" functions
+- [x] Explain the overall purpose of the numpy.randowm package usining a Jupyter notebook.
+- [x] Explain use of "Simple Randow data" and "Permutations" functions
 - [ ] Explain the use and pusprose of at least five "distributions" functions
 - [ ] Explain the use of seeds in generating pseudoramndowm numbers
 - [ ] Submit and track on GitHib
