@@ -34,7 +34,7 @@ from the list of files, or download the file by right clicking the link and save
 There notebook can be 
 - __[viewed online](The_Python_numpy.random_package.ipynb)__ in GitHib or 
 - download __[The Python numpy.random package.ipynb](https://raw.githubusercontent.com/G00364778/52465_assignments/master/The_Python_numpy.random_package.ipynb)__
-- __[Display the assignment in an external viewer](https://nbviewer.jupyter.org/github/G00364778/52446_assignments/blob/master/The_Python_numpy.random_package.ipynb)__
+- __[Display the assignment in an external viewer](https://nbviewer.jupyter.org/github/G00364778/52465_assignments/blob/master/The_Python_numpy.random_package.ipynb)__
 
 
 ## References
