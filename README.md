@@ -1,3 +1,4 @@
+
 # Assignment 2018
 ## Programming for Data Analysis
 
@@ -27,7 +28,14 @@
 This repository contains the Jupyter Programming assignment for data analtics module and all the reference materials describing the module.
 
 ## How to run the notebook?
-There notebook can be [viewed online](The_Python_numpy.random_package.ipynb) GitHib or download to a PC and viewed in a Python Notebook. To view the file on github, just select the [The Python numpy.random package.ipynb](https://raw.githubusercontent.com/G00364778/52465_assignments/master/The_Python_numpy.random_package.ipynb) from the list of files, or download the file by right clicking the link and save the file to the document folder on the PC and launch the Jupyter notebook locally on the PC. 
+
+from the list of files, or download the file by right clicking the link and save the file to the document folder on the PC and launch the Jupyter notebook locally on the PC. 
+
+There notebook can be 
+- __[viewed online](The_Python_numpy.random_package.ipynb)__ in GitHib or 
+- download __[The Python numpy.random package.ipynb](https://raw.githubusercontent.com/G00364778/52465_assignments/master/The_Python_numpy.random_package.ipynb)__
+- __[Display the assignment in an external viewer](https://nbviewer.jupyter.org/github/G00364778/52446_assignments/blob/master/The_Python_numpy.random_package.ipynb)__
+
 
 ## References
 - [Github Markdown reference](https://guides.github.com/features/mastering-markdown/)
